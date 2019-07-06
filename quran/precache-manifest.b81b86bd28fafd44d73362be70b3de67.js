@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "055c1203966d55de9238ee84f66e42bb",
+    "revision": "7e9a50b462bfafd0998e556562e35fb0",
     "url": "https://rdesoky.github.io/quran/index.html"
   },
   {
-    "revision": "3e2a636b94d83b8e5182",
+    "revision": "868c048b8b5448dea966",
     "url": "https://rdesoky.github.io/quran/static/css/main.1c95a8b6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://rdesoky.github.io/quran/static/js/2.14986a83.chunk.js"
   },
   {
-    "revision": "3e2a636b94d83b8e5182",
-    "url": "https://rdesoky.github.io/quran/static/js/main.fae1d545.chunk.js"
+    "revision": "868c048b8b5448dea966",
+    "url": "https://rdesoky.github.io/quran/static/js/main.e16be4ec.chunk.js"
   },
   {
     "revision": "86b45ba2740ef9c97973",
